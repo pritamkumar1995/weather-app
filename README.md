@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Weather application that tell current and coming 5 days temperature of anyplace
 
 ## Available Scripts
 
